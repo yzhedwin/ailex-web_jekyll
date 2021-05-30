@@ -19,4 +19,3 @@ jobs:
     paths-ignore:
       - .gitignore
       - README.md
-      - LICENSE
