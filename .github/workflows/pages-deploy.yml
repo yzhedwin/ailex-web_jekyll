@@ -1,0 +1,21 @@
+name: Automatic Deployment
+
+on:
+  push:
+    branches:
+      - main
+
+
+jobs:
+  github-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: helaili/jekyll-action@v2
+        with:
+
+
+    paths-ignore:
+      - .gitignore
+      - README.md
+      - LICENSE
