@@ -1,9 +1,7 @@
 # Ailex - Your Autonomous Solution
+
 ## Ailex - Web
 Ailex-web static webpage powered by Jekyll to allow ease of access to Project Ailex.
-This is a demo of what project AILEX's training environment and agents will look like. 
-There is no menu for the game, so to quit the game you will need to hold ALT-TAB to close
-the windows manually.
 
 ## Ailex - Simulation
 This is a demo of what project AILEX's training environment and agents will look like. 
