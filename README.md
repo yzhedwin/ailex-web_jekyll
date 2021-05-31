@@ -6,7 +6,7 @@ Ailex-web static webpage powered by Jekyll to allow ease of access to Project Ai
 ## Ailex - Simulation
 This is a demo of what project AILEX's training environment and agents will look like. 
 There is no menu for the game, so to quit the game you will need to hold ALT-TAB to close
-the windows manually.
+the windows manually. The map is based on a map (link below) and uses UNREAL Engine 4. 
 
 ### Game View
 ![github-small](https://github.com/YEOWEIHNGWHYELAB/AILEX/blob/main/Start.png?raw=true)
@@ -53,7 +53,7 @@ Mouse -> Control Perspective (Only works in First Person view of the vehicle)
 
 
 ### Future Improvement
-AI driver
+AI Agents
 
 Game Menu
 
