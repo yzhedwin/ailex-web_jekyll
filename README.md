@@ -18,7 +18,7 @@ The cars in the game follows a set path (spline) and continue round the set path
 ![github-small](https://github.com/YEOWEIHNGWHYELAB/AILEX/blob/main/TrafficLights.png)
 
 ### Hardware & Software
-This game is tested to worked on GPU: 940m CPU: i5 6200u Ram: 8GB 
+This game is tested to worked on GPU: GT940m 2GB GDDR3 CPU: Intel i5-6200u Ram: 8GB 
 
 Size of Game: 539MB
 
