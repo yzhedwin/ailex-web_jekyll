@@ -3,10 +3,13 @@
 ## Ailex - Web
 Ailex-web static webpage powered by Jekyll to allow ease of access to Project Ailex.
 
-## Ailex - Simulation
-This is a demo of what project AILEX's training environment and agents will look like. 
+## Ailex - Simulation Game
+This is a demo of what project AILEX's training environment and agents will look like. It uses UNREAL ENGINE 4.26.2.
 There is no menu for the game, so to quit the game you will need to hold ALT-TAB to close
-the windows manually. The map is based on a map (link below) and uses UNREAL Engine 4. 
+the windows manually. The map is based on a map (link below). 
+
+## Traffic Mechanics.
+The cars in the game follows a set path (spline) and continue round the set path. The cars will turn off their throttle if they see a player in the way of it (pawn detection) or when the traffic light turns red. 
 
 ### Game View
 ![github-small](https://github.com/YEOWEIHNGWHYELAB/AILEX/blob/main/Start.png?raw=true)
@@ -22,7 +25,6 @@ Size of Game: 539MB
 You need a Windows (x64/64-bit) machine.
 
 You may need to add an exception to your anti-virus to run this game. 
-
 
 ### Controls
 #### Xbox
@@ -51,7 +53,6 @@ TAB -> Toggle between First Person and Third Person,
 
 Mouse -> Control Perspective (Only works in First Person view of the vehicle)
 
-
 ### Future Improvement
 AI Agents
 
@@ -62,7 +63,5 @@ GUI to select different environment and agents
 Better Vehicle Dynamics
 
 Multiplayer Feature
-
-
 
 > The Map is obtained from: https://forums.unrealengine.com/t/free-modular-road-tool/112530
