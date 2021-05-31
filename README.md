@@ -55,14 +55,14 @@ TAB -> Toggle between First Person and Third Person,
 Mouse -> Control Perspective (Only works in First Person view of the vehicle)
 
 ### Future Improvement
-AI Agents
+AI Agents,
 
-Game Menu
+Game Menu,
 
-GUI to select different environment and agents
+GUI to select different environment and agents,
 
-Better Vehicle Dynamics
+Better Vehicle Dynamics,
 
-Multiplayer Feature
+Multiplayer Feature,
 
 > The Map is obtained from: https://forums.unrealengine.com/t/free-modular-road-tool/112530
