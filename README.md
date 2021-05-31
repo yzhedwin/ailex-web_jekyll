@@ -11,6 +11,8 @@ This is a demo of what project AILEX's training environment and agents will look
 There is no menu for the game, so to quit the game you will need to hold ALT-TAB to close
 the windows manually. The map is based on a map (link below). 
 
+To get the game, download the file from: https://yzhedwin.github.io/ailex-web/downloads/. Then Extract the folder to a desired directory and double click the "MRT icon" to play the game. You may need to create an exception to the extracted directory on your anti-virus to run the game.  
+
 ## Traffic Mechanics.
 The cars in the game follows a set path (spline) and continue round the set path. The cars will turn off their throttle if they see a player in the way of it (pawn detection) or when the traffic light turns red. 
 
