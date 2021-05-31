@@ -13,14 +13,14 @@ the windows manually. The map is based on a map (link below).
 
 To get the game, download the file from: https://yzhedwin.github.io/ailex-web/downloads/. Then Extract the folder to a desired directory and double click the "MRT icon" to play the game. You may need to create an exception to the extracted directory on your anti-virus to run the game. This game only works on a Windows 64-bit (x64) machine. 
 
-## Traffic Mechanics.
-The cars in the game follows a set path (spline) and continue round the set path. The cars will turn off their throttle if they see a player in the way of it (pawn detection) or when the traffic light turns red. 
-
 ### Game View
 ![github-small](https://github.com/YEOWEIHNGWHYELAB/AILEX/blob/main/Start.png?raw=true)
 
 ### Traffic Systems & AI Adversary
 ![github-small](https://github.com/YEOWEIHNGWHYELAB/AILEX/blob/main/TrafficLights.png)
+
+## Traffic Mechanics.
+The cars in the game follows a set path (spline) and continue round the set path. The cars will turn off their throttle if they see a player in the way of it (pawn detection) or when the traffic light turns red. 
 
 ### Hardware & Software
 This game is tested to worked on GPU: Nvidia GT940m 2GB GDDR3 CPU: Intel i5-6200u Ram: 8GB 
