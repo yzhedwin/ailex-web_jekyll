@@ -1,45 +1,45 @@
 const resource = [
 
   /* --- CSS --- */
-  '/assets/css/style.css',
+  '/ailex-web/assets/css/style.css',
 
   /* --- JavaScripts --- */
   
-  '/assets/js/dist/home.min.js',
-  '/assets/js/dist/page.min.js',
-  '/assets/js/dist/post.min.js',
-  '/assets/js/dist/categories.min.js',
-  '/assets/js/data/search.json',
-  '/app.js',
-  '/sw.js',
+  '/ailex-web/assets/js/dist/home.min.js',
+  '/ailex-web/assets/js/dist/page.min.js',
+  '/ailex-web/assets/js/dist/post.min.js',
+  '/ailex-web/assets/js/dist/categories.min.js',
+  '/ailex-web/assets/js/data/search.json',
+  '/ailex-web/app.js',
+  '/ailex-web/sw.js',
 
   /* --- HTML --- */
-  '/index.html',
-  '/404.html',
+  '/ailex-web/index.html',
+  '/ailex-web/404.html',
   
-    '/categories/',
+    '/ailex-web/categories/',
   
-    '/tags/',
+    '/ailex-web/tags/',
   
-    '/archives/',
+    '/ailex-web/archives/',
   
-    '/about/',
+    '/ailex-web/about/',
   
-    '/downloads/',
+    '/ailex-web/downloads/',
   
 
   /* --- Favicons --- */
   
 
-  '/assets/img/favicons/android-chrome-192x192.png',
-  '/assets/img/favicons/android-chrome-512x512.png',
-  '/assets/img/favicons/apple-touch-icon.png',
-  '/assets/img/favicons/favicon-16x16.png',
-  '/assets/img/favicons/favicon-32x32.png',
-  '/assets/img/favicons/favicon.ico',
-  '/assets/img/favicons/mstile-150x150.png',
-  '/assets/img/favicons/site.webmanifest',
-  '/assets/img/favicons/browserconfig.xml'
+  '/ailex-web/assets/img/favicons/android-chrome-192x192.png',
+  '/ailex-web/assets/img/favicons/android-chrome-512x512.png',
+  '/ailex-web/assets/img/favicons/apple-touch-icon.png',
+  '/ailex-web/assets/img/favicons/favicon-16x16.png',
+  '/ailex-web/assets/img/favicons/favicon-32x32.png',
+  '/ailex-web/assets/img/favicons/favicon.ico',
+  '/ailex-web/assets/img/favicons/mstile-150x150.png',
+  '/ailex-web/assets/img/favicons/site.webmanifest',
+  '/ailex-web/assets/img/favicons/browserconfig.xml'
 
 ];
 

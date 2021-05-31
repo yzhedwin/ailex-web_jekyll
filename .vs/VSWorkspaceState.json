@@ -1,13 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\vendor",
-    "\\vendor\\bundle",
-    "\\vendor\\bundle\\ruby",
-    "\\vendor\\bundle\\ruby\\2.5.0",
-    "\\vendor\\bundle\\ruby\\2.5.0\\gems",
-    "\\vendor\\bundle\\ruby\\2.5.0\\gems\\jekyll-theme-chirpy-4.0.1"
+    "\\js",
+    "\\_sass",
+    "\\_site",
+    "\\_site\\assets",
+    "\\_site\\assets\\img",
+    "\\_site\\assets\\img\\favicons"
   ],
-  "SelectedNode": "\\.github",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }

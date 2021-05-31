@@ -2,7 +2,7 @@
   
   {
     "title": "Welcome to Jekyll!",
-    "url": "/posts/welcome-to-jekyll/",
+    "url": "/ailex-web/posts/welcome-to-jekyll/",
     "categories": "jekyll, update",
     "tags": "",
     "date": "2021-05-18 21:29:25 +0800",
@@ -17,7 +17,7 @@
   
   {
     "title": "Bananas4",
-    "url": "/posts/bananas4/",
+    "url": "/ailex-web/posts/bananas4/",
     "categories": "",
     "tags": "",
     "date": "2018-08-20 00:00:00 +0800",
@@ -32,7 +32,7 @@
   
   {
     "title": "Bananas3",
-    "url": "/posts/bananas3/",
+    "url": "/ailex-web/posts/bananas3/",
     "categories": "",
     "tags": "",
     "date": "2018-08-20 00:00:00 +0800",
@@ -47,7 +47,7 @@
   
   {
     "title": "Bananas1",
-    "url": "/posts/bananas1/",
+    "url": "/ailex-web/posts/bananas1/",
     "categories": "",
     "tags": "",
     "date": "2018-08-20 00:00:00 +0800",
@@ -62,7 +62,7 @@
   
   {
     "title": "Bananas",
-    "url": "/posts/bananas/",
+    "url": "/ailex-web/posts/bananas/",
     "categories": "",
     "tags": "",
     "date": "2018-08-20 00:00:00 +0800",
