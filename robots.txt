@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://yzhedwin.github.io/ailex-web/sitemap.xml
