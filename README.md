@@ -30,7 +30,7 @@ You need a Windows (x64/64-bit) machine.
 You may need to add an exception to your anti-virus to run this game. 
 
 ### Controls
-#### Xbox
+#### Xbox Controller
 Left ThumbStick -> Steering,
 
 Right ThumbStick -> Control Perspective (Only works in First Person view of the vehicle),
