@@ -1,6 +1,6 @@
 self.importScripts('/ailex-web/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20210531.1317';
+const cacheName = 'chirpy-20210531.1331';
 
 function verifyDomain(url) {
   for (const domain of allowedDomains) {
