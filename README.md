@@ -3,6 +3,9 @@
 ## Ailex - Web
 Ailex-web static webpage powered by Jekyll to allow ease of access to Project Ailex.
 
+### Web View
+![github-small](https://github.com/YEOWEIHNGWHYELAB/AILEX/blob/main/Website.png)
+
 ## Ailex - Simulation Game
 This is a demo of what project AILEX's training environment and agents will look like. It uses UNREAL ENGINE 4.26.2.
 There is no menu for the game, so to quit the game you will need to hold ALT-TAB to close
